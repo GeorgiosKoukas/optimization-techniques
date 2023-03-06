@@ -1,0 +1,1 @@
+As with the gradient descent method, the minimum of this function is not unique, and different local minima may be found depending on the starting point and the optimization algorithm used. To find the global minimum of the function, you may need to try multiple starting points and use a more sophisticated optimization algorithm.
